@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "E:\\ep\\android\\as\\AndroidApp1.7.8source\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ntagblue.png",
+        "source": "E:\\ep\\android\\as\\AndroidApp1.7.8source\\app\\src\\main\\res\\drawable\\ntagblue.png"
+    },
+    {
+        "merged": "E:\\ep\\android\\as\\AndroidApp1.7.8source\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ntaggrey.png",
+        "source": "E:\\ep\\android\\as\\AndroidApp1.7.8source\\app\\src\\main\\res\\drawable\\ntaggrey.png"
+    },
+    {
+        "merged": "E:\\ep\\android\\as\\AndroidApp1.7.8source\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ntaggreen.png",
+        "source": "E:\\ep\\android\\as\\AndroidApp1.7.8source\\app\\src\\main\\res\\drawable\\ntaggreen.png"
+    },
+    {
+        "merged": "E:\\ep\\android\\as\\AndroidApp1.7.8source\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_grey_blue.xml",
+        "source": "E:\\ep\\android\\as\\AndroidApp1.7.8source\\app\\src\\main\\res\\drawable\\btn_grey_blue.xml"
+    },
+    {
+        "merged": "E:\\ep\\android\\as\\AndroidApp1.7.8source\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_grey_orange.xml",
+        "source": "E:\\ep\\android\\as\\AndroidApp1.7.8source\\app\\src\\main\\res\\drawable\\btn_grey_orange.xml"
+    },
+    {
+        "merged": "E:\\ep\\android\\as\\AndroidApp1.7.8source\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ntaggrey_old.png",
+        "source": "E:\\ep\\android\\as\\AndroidApp1.7.8source\\app\\src\\main\\res\\drawable\\ntaggrey_old.png"
+    },
+    {
+        "merged": "E:\\ep\\android\\as\\AndroidApp1.7.8source\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ntagorange.png",
+        "source": "E:\\ep\\android\\as\\AndroidApp1.7.8source\\app\\src\\main\\res\\drawable\\ntagorange.png"
+    },
+    {
+        "merged": "E:\\ep\\android\\as\\AndroidApp1.7.8source\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_blue.xml",
+        "source": "E:\\ep\\android\\as\\AndroidApp1.7.8source\\app\\src\\main\\res\\drawable\\btn_blue.xml"
+    },
+    {
+        "merged": "E:\\ep\\android\\as\\AndroidApp1.7.8source\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_grey_green.xml",
+        "source": "E:\\ep\\android\\as\\AndroidApp1.7.8source\\app\\src\\main\\res\\drawable\\btn_grey_green.xml"
+    },
+    {
+        "merged": "E:\\ep\\android\\as\\AndroidApp1.7.8source\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_orange.xml",
+        "source": "E:\\ep\\android\\as\\AndroidApp1.7.8source\\app\\src\\main\\res\\drawable\\btn_orange.xml"
+    },
+    {
+        "merged": "E:\\ep\\android\\as\\AndroidApp1.7.8source\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_off.xml",
+        "source": "E:\\ep\\android\\as\\AndroidApp1.7.8source\\app\\src\\main\\res\\drawable\\btn_off.xml"
+    },
+    {
+        "merged": "E:\\ep\\android\\as\\AndroidApp1.7.8source\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_blue_small.xml",
+        "source": "E:\\ep\\android\\as\\AndroidApp1.7.8source\\app\\src\\main\\res\\drawable\\btn_blue_small.xml"
+    },
+    {
+        "merged": "E:\\ep\\android\\as\\AndroidApp1.7.8source\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ntagred_old.png",
+        "source": "E:\\ep\\android\\as\\AndroidApp1.7.8source\\app\\src\\main\\res\\drawable\\ntagred_old.png"
+    },
+    {
+        "merged": "E:\\ep\\android\\as\\AndroidApp1.7.8source\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_back.xml",
+        "source": "E:\\ep\\android\\as\\AndroidApp1.7.8source\\app\\src\\main\\res\\drawable\\text_back.xml"
+    },
+    {
+        "merged": "E:\\ep\\android\\as\\AndroidApp1.7.8source\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\layout_background_screen.xml",
+        "source": "E:\\ep\\android\\as\\AndroidApp1.7.8source\\app\\src\\main\\res\\drawable\\layout_background_screen.xml"
+    },
+    {
+        "merged": "E:\\ep\\android\\as\\AndroidApp1.7.8source\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\layout_background_section.xml",
+        "source": "E:\\ep\\android\\as\\AndroidApp1.7.8source\\app\\src\\main\\res\\drawable\\layout_background_section.xml"
+    },
+    {
+        "merged": "E:\\ep\\android\\as\\AndroidApp1.7.8source\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ntagblue_old.png",
+        "source": "E:\\ep\\android\\as\\AndroidApp1.7.8source\\app\\src\\main\\res\\drawable\\ntagblue_old.png"
+    },
+    {
+        "merged": "E:\\ep\\android\\as\\AndroidApp1.7.8source\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_green.xml",
+        "source": "E:\\ep\\android\\as\\AndroidApp1.7.8source\\app\\src\\main\\res\\drawable\\btn_green.xml"
+    },
+    {
+        "merged": "E:\\ep\\android\\as\\AndroidApp1.7.8source\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ntaggreen_old.png",
+        "source": "E:\\ep\\android\\as\\AndroidApp1.7.8source\\app\\src\\main\\res\\drawable\\ntaggreen_old.png"
+    }
+]

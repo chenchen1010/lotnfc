@@ -1,0 +1,202 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* README.md
+* doc\
+* doc\allclasses-frame.html
+* doc\allclasses-noframe.html
+* doc\com\
+* doc\com\actionbarsherlock\
+* doc\com\actionbarsherlock\R.attr.html
+* doc\com\actionbarsherlock\R.bool.html
+* doc\com\actionbarsherlock\R.color.html
+* doc\com\actionbarsherlock\R.dimen.html
+* doc\com\actionbarsherlock\R.drawable.html
+* doc\com\actionbarsherlock\R.html
+* doc\com\actionbarsherlock\R.id.html
+* doc\com\actionbarsherlock\R.integer.html
+* doc\com\actionbarsherlock\R.layout.html
+* doc\com\actionbarsherlock\R.string.html
+* doc\com\actionbarsherlock\R.style.html
+* doc\com\actionbarsherlock\R.styleable.html
+* doc\com\actionbarsherlock\class-use\
+* doc\com\actionbarsherlock\class-use\R.attr.html
+* doc\com\actionbarsherlock\class-use\R.bool.html
+* doc\com\actionbarsherlock\class-use\R.color.html
+* doc\com\actionbarsherlock\class-use\R.dimen.html
+* doc\com\actionbarsherlock\class-use\R.drawable.html
+* doc\com\actionbarsherlock\class-use\R.html
+* doc\com\actionbarsherlock\class-use\R.id.html
+* doc\com\actionbarsherlock\class-use\R.integer.html
+* doc\com\actionbarsherlock\class-use\R.layout.html
+* doc\com\actionbarsherlock\class-use\R.string.html
+* doc\com\actionbarsherlock\class-use\R.style.html
+* doc\com\actionbarsherlock\class-use\R.styleable.html
+* doc\com\actionbarsherlock\package-frame.html
+* doc\com\actionbarsherlock\package-summary.html
+* doc\com\actionbarsherlock\package-tree.html
+* doc\com\actionbarsherlock\package-use.html
+* doc\com\nxp\
+* doc\com\nxp\nfc_demo\
+* doc\com\nxp\nfc_demo\BuildConfig.html
+* doc\com\nxp\nfc_demo\MainActivity.html
+* doc\com\nxp\nfc_demo\R.anim.html
+* doc\com\nxp\nfc_demo\R.attr.html
+* doc\com\nxp\nfc_demo\R.bool.html
+* doc\com\nxp\nfc_demo\R.color.html
+* doc\com\nxp\nfc_demo\R.dimen.html
+* doc\com\nxp\nfc_demo\R.drawable.html
+* doc\com\nxp\nfc_demo\R.html
+* doc\com\nxp\nfc_demo\R.id.html
+* doc\com\nxp\nfc_demo\R.integer.html
+* doc\com\nxp\nfc_demo\R.layout.html
+* doc\com\nxp\nfc_demo\R.menu.html
+* doc\com\nxp\nfc_demo\R.string.html
+* doc\com\nxp\nfc_demo\R.style.html
+* doc\com\nxp\nfc_demo\R.styleable.html
+* doc\com\nxp\nfc_demo\adapters\
+* doc\com\nxp\nfc_demo\adapters\TabsAdapter.DummyTabFactory.html
+* doc\com\nxp\nfc_demo\adapters\TabsAdapter.TabInfo.html
+* doc\com\nxp\nfc_demo\adapters\TabsAdapter.html
+* doc\com\nxp\nfc_demo\adapters\class-use\
+* doc\com\nxp\nfc_demo\adapters\class-use\TabsAdapter.DummyTabFactory.html
+* doc\com\nxp\nfc_demo\adapters\class-use\TabsAdapter.TabInfo.html
+* doc\com\nxp\nfc_demo\adapters\class-use\TabsAdapter.html
+* doc\com\nxp\nfc_demo\adapters\package-frame.html
+* doc\com\nxp\nfc_demo\adapters\package-summary.html
+* doc\com\nxp\nfc_demo\adapters\package-tree.html
+* doc\com\nxp\nfc_demo\adapters\package-use.html
+* doc\com\nxp\nfc_demo\class-use\
+* doc\com\nxp\nfc_demo\class-use\BuildConfig.html
+* doc\com\nxp\nfc_demo\class-use\MainActivity.html
+* doc\com\nxp\nfc_demo\class-use\R.anim.html
+* doc\com\nxp\nfc_demo\class-use\R.attr.html
+* doc\com\nxp\nfc_demo\class-use\R.bool.html
+* doc\com\nxp\nfc_demo\class-use\R.color.html
+* doc\com\nxp\nfc_demo\class-use\R.dimen.html
+* doc\com\nxp\nfc_demo\class-use\R.drawable.html
+* doc\com\nxp\nfc_demo\class-use\R.html
+* doc\com\nxp\nfc_demo\class-use\R.id.html
+* doc\com\nxp\nfc_demo\class-use\R.integer.html
+* doc\com\nxp\nfc_demo\class-use\R.layout.html
+* doc\com\nxp\nfc_demo\class-use\R.menu.html
+* doc\com\nxp\nfc_demo\class-use\R.string.html
+* doc\com\nxp\nfc_demo\class-use\R.style.html
+* doc\com\nxp\nfc_demo\class-use\R.styleable.html
+* doc\com\nxp\nfc_demo\fragments\
+* doc\com\nxp\nfc_demo\fragments\LEDFragment.html
+* doc\com\nxp\nfc_demo\fragments\ReadOnlyFragment.html
+* doc\com\nxp\nfc_demo\fragments\SendTextFragment.html
+* doc\com\nxp\nfc_demo\fragments\SettingsFragment.html
+* doc\com\nxp\nfc_demo\fragments\class-use\
+* doc\com\nxp\nfc_demo\fragments\class-use\LEDFragment.html
+* doc\com\nxp\nfc_demo\fragments\class-use\ReadOnlyFragment.html
+* doc\com\nxp\nfc_demo\fragments\class-use\SendTextFragment.html
+* doc\com\nxp\nfc_demo\fragments\class-use\SettingsFragment.html
+* doc\com\nxp\nfc_demo\fragments\package-frame.html
+* doc\com\nxp\nfc_demo\fragments\package-summary.html
+* doc\com\nxp\nfc_demo\fragments\package-tree.html
+* doc\com\nxp\nfc_demo\fragments\package-use.html
+* doc\com\nxp\nfc_demo\package-frame.html
+* doc\com\nxp\nfc_demo\package-summary.html
+* doc\com\nxp\nfc_demo\package-tree.html
+* doc\com\nxp\nfc_demo\package-use.html
+* doc\com\nxp\nfc_demo\widgets\
+* doc\com\nxp\nfc_demo\widgets\Commands.html
+* doc\com\nxp\nfc_demo\widgets\NFCReader.html
+* doc\com\nxp\nfc_demo\widgets\NFCWriter.html
+* doc\com\nxp\nfc_demo\widgets\class-use\
+* doc\com\nxp\nfc_demo\widgets\class-use\Commands.html
+* doc\com\nxp\nfc_demo\widgets\class-use\NFCReader.html
+* doc\com\nxp\nfc_demo\widgets\class-use\NFCWriter.html
+* doc\com\nxp\nfc_demo\widgets\package-frame.html
+* doc\com\nxp\nfc_demo\widgets\package-summary.html
+* doc\com\nxp\nfc_demo\widgets\package-tree.html
+* doc\com\nxp\nfc_demo\widgets\package-use.html
+* doc\constant-values.html
+* doc\deprecated-list.html
+* doc\help-doc.html
+* doc\index-files\
+* doc\index-files\index-1.html
+* doc\index-files\index-10.html
+* doc\index-files\index-11.html
+* doc\index-files\index-12.html
+* doc\index-files\index-13.html
+* doc\index-files\index-14.html
+* doc\index-files\index-15.html
+* doc\index-files\index-16.html
+* doc\index-files\index-17.html
+* doc\index-files\index-18.html
+* doc\index-files\index-19.html
+* doc\index-files\index-2.html
+* doc\index-files\index-20.html
+* doc\index-files\index-21.html
+* doc\index-files\index-3.html
+* doc\index-files\index-4.html
+* doc\index-files\index-5.html
+* doc\index-files\index-6.html
+* doc\index-files\index-7.html
+* doc\index-files\index-8.html
+* doc\index-files\index-9.html
+* doc\index.html
+* doc\overview-frame.html
+* doc\overview-summary.html
+* doc\overview-tree.html
+* doc\package-list
+* doc\resources\
+* doc\resources\background.gif
+* doc\resources\tab.gif
+* doc\resources\titlebar.gif
+* doc\resources\titlebar_end.gif
+* doc\stylesheet.css
+* ic_launcher-web.png
+* javadoc.xml
+* lib\
+* lib\ndeftools-1.2.3.jar
+* lib\ndeftools-src-1.2.3.zip
+* proguard-project.txt
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:19.1.0
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app\src\main\AndroidManifest.xml
+* assets\ => app\src\main\assets\
+* lint.xml => app\lint.xml
+* res\ => app\src\main\res\
+* src\ => app\src\main\java\
+* ntagi2c.PNG => ntagi2c.png
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

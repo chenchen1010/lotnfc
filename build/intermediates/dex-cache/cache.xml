@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\androidjavastudy\androidguangpan\Androiddevevolpetools\android-sdk\android-sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="E:\ep\android\as\AndroidApp1.7.8source\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_0bf08d052fa98730ad3a00b6b9e5c5e0e4c2f245\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ep\android\as\AndroidApp1.7.8source\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43ddb02d299ef708758ed1b5816df3e0f2a5bfe7">
+        <dex dex="E:\ep\android\as\AndroidApp1.7.8source\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d3d6157d3cb14247aa7d93872512fe91bbec4bdf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ep\android\as\AndroidApp1.7.8source\app\libs\ndeftools-1.2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1342b5b70a68e06a3d3cb1a22958077cdca94067">
+        <dex dex="E:\ep\android\as\AndroidApp1.7.8source\app\build\intermediates\transforms\dex\debug\folders\1000\2\ndeftools-1.2.3_97c9d9f698b8d11f2858cb0ebc39cba98ec92c44\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\ep\android\as\AndroidApp1.7.8source\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="06f672989c1dfab7c950d475a5f1f020f883c10e">
+        <dex dex="E:\ep\android\as\AndroidApp1.7.8source\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_acbe8beeea708fcfbd3065d089701628b6804670\classes.dex" />
+    </item>
+
+</items>

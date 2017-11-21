@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "E:\\ep\\android\\as\\AndroidApp1.7.8source\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_readmemory.xml",
+        "source": "E:\\ep\\android\\as\\AndroidApp1.7.8source\\app\\src\\main\\res\\layout\\activity_readmemory.xml"
+    },
+    {
+        "merged": "E:\\ep\\android\\as\\AndroidApp1.7.8source\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_auth.xml",
+        "source": "E:\\ep\\android\\as\\AndroidApp1.7.8source\\app\\src\\main\\res\\layout\\activity_auth.xml"
+    },
+    {
+        "merged": "E:\\ep\\android\\as\\AndroidApp1.7.8source\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_versioninfo.xml",
+        "source": "E:\\ep\\android\\as\\AndroidApp1.7.8source\\app\\src\\main\\res\\layout\\activity_versioninfo.xml"
+    },
+    {
+        "merged": "E:\\ep\\android\\as\\AndroidApp1.7.8source\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_registerconfig.xml",
+        "source": "E:\\ep\\android\\as\\AndroidApp1.7.8source\\app\\src\\main\\res\\layout\\activity_registerconfig.xml"
+    },
+    {
+        "merged": "E:\\ep\\android\\as\\AndroidApp1.7.8source\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\ep\\android\\as\\AndroidApp1.7.8source\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\ep\\android\\as\\AndroidApp1.7.8source\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_help.xml",
+        "source": "E:\\ep\\android\\as\\AndroidApp1.7.8source\\app\\src\\main\\res\\layout\\activity_help.xml"
+    },
+    {
+        "merged": "E:\\ep\\android\\as\\AndroidApp1.7.8source\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_speedtest.xml",
+        "source": "E:\\ep\\android\\as\\AndroidApp1.7.8source\\app\\src\\main\\res\\layout\\fragment_speedtest.xml"
+    },
+    {
+        "merged": "E:\\ep\\android\\as\\AndroidApp1.7.8source\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_debug.xml",
+        "source": "E:\\ep\\android\\as\\AndroidApp1.7.8source\\app\\src\\main\\res\\layout\\activity_debug.xml"
+    },
+    {
+        "merged": "E:\\ep\\android\\as\\AndroidApp1.7.8source\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_registersession.xml",
+        "source": "E:\\ep\\android\\as\\AndroidApp1.7.8source\\app\\src\\main\\res\\layout\\activity_registersession.xml"
+    },
+    {
+        "merged": "E:\\ep\\android\\as\\AndroidApp1.7.8source\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_config.xml",
+        "source": "E:\\ep\\android\\as\\AndroidApp1.7.8source\\app\\src\\main\\res\\layout\\fragment_config.xml"
+    },
+    {
+        "merged": "E:\\ep\\android\\as\\AndroidApp1.7.8source\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "E:\\ep\\android\\as\\AndroidApp1.7.8source\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "E:\\ep\\android\\as\\AndroidApp1.7.8source\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_resetmemory.xml",
+        "source": "E:\\ep\\android\\as\\AndroidApp1.7.8source\\app\\src\\main\\res\\layout\\activity_resetmemory.xml"
+    },
+    {
+        "merged": "E:\\ep\\android\\as\\AndroidApp1.7.8source\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_leddemo.xml",
+        "source": "E:\\ep\\android\\as\\AndroidApp1.7.8source\\app\\src\\main\\res\\layout\\fragment_leddemo.xml"
+    },
+    {
+        "merged": "E:\\ep\\android\\as\\AndroidApp1.7.8source\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_ndef.xml",
+        "source": "E:\\ep\\android\\as\\AndroidApp1.7.8source\\app\\src\\main\\res\\layout\\fragment_ndef.xml"
+    },
+    {
+        "merged": "E:\\ep\\android\\as\\AndroidApp1.7.8source\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_flashmemory.xml",
+        "source": "E:\\ep\\android\\as\\AndroidApp1.7.8source\\app\\src\\main\\res\\layout\\activity_flashmemory.xml"
+    }
+]
